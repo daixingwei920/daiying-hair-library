@@ -1,0 +1,10 @@
+*
+!.gitignore
+!README.md
+!LICENSE
+!catalog.json
+!provenance.json
+!library.json
+!library.sha256
+!assets/
+!assets/*.webp
