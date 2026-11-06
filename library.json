@@ -1,0 +1,961 @@
+{
+  "schema": "daiying-hair-library-v1",
+  "revision": "8ac94a11a5ab615710d7aca24e00109af0140466",
+  "styles": [
+    {
+      "id": "airy-bob",
+      "name": "空气感短波波",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature",
+        "senior"
+      ],
+      "length": "short",
+      "curl": "straight",
+      "color": "#392c28",
+      "kind": "transparent",
+      "anchor": {
+        "x": 256,
+        "y": 185,
+        "faceWidth": 250
+      },
+      "front": {
+        "sha256": "eee262c525fa1aeaaf012e796af4e0d034730250d49ed69111fbecc80f9b8924",
+        "bytes": 178780,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/airy-bob-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "4c4108acd72a959ea2347fc75a504cdcc92ebcdd70bc06a6ff15e2321c1be360",
+        "bytes": 57686,
+        "mime": "image/webp",
+        "width": 303,
+        "height": 404,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/airy-bob-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "french-wave",
+      "name": "法式慵懒卷",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature"
+      ],
+      "length": "medium",
+      "curl": "wavy",
+      "color": "#654638",
+      "kind": "transparent",
+      "anchor": {
+        "x": 256,
+        "y": 174,
+        "faceWidth": 235
+      },
+      "front": {
+        "sha256": "57953cf44fa5fe86c8febb06af3290f91382368f7c44f19f2315bf5eb8b69e0b",
+        "bytes": 214402,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/french-wave-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "d472104a80e9b3eac6cd4afd913c4de0dd638c5a42f56b13c52ec99cb0bb8f5a",
+        "bytes": 60010,
+        "mime": "image/webp",
+        "width": 303,
+        "height": 404,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/french-wave-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "long-layer",
+      "name": "柔雾长层次",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult"
+      ],
+      "length": "long",
+      "curl": "straight",
+      "color": "#302c2c",
+      "kind": "transparent",
+      "anchor": {
+        "x": 256,
+        "y": 155,
+        "faceWidth": 250
+      },
+      "front": {
+        "sha256": "de3381fd61034d3d4d0f5c75a9994a3346d3c0e4789cda65368f94d303beb6d2",
+        "bytes": 210374,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/long-layer-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "4a73134f05a2a73aab6ef75b2abc66581bcdb27fe13ec0e3ba6a7ef2ef0464c0",
+        "bytes": 54646,
+        "mime": "image/webp",
+        "width": 303,
+        "height": 404,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/long-layer-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "cloud-curl",
+      "name": "云朵羊毛卷",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult"
+      ],
+      "length": "medium",
+      "curl": "curly",
+      "color": "#694432",
+      "kind": "transparent",
+      "anchor": {
+        "x": 256,
+        "y": 185,
+        "faceWidth": 250
+      },
+      "front": {
+        "sha256": "06a79e210233ae0de1289b488f60342cb53c9bbcd259d81fbb2e1f9173c01255",
+        "bytes": 242910,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/cloud-curl-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "7b046979623ab28350ae80c9bbcf7f5b4698cabdb8b662996bf1245f9d82549e",
+        "bytes": 67774,
+        "mime": "image/webp",
+        "width": 303,
+        "height": 404,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/cloud-curl-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "textured-crop",
+      "name": "利落纹理短发",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature",
+        "senior"
+      ],
+      "length": "short",
+      "curl": "straight",
+      "color": "#292a27",
+      "kind": "transparent",
+      "anchor": {
+        "x": 256,
+        "y": 150,
+        "faceWidth": 250
+      },
+      "front": {
+        "sha256": "605e79af72e15dd9c2e55e24a5664394d41b2c8e1950fb77dad902cfe5f06829",
+        "bytes": 100850,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/textured-crop-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "3d5600595065e2a5e969fc3006dd0c13105908f5a6851f1d731ab2c1b2cd2531",
+        "bytes": 51094,
+        "mime": "image/webp",
+        "width": 303,
+        "height": 404,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/textured-crop-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "soft-part",
+      "name": "微卷侧分",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature",
+        "senior"
+      ],
+      "length": "short",
+      "curl": "wavy",
+      "color": "#49352e",
+      "kind": "transparent",
+      "anchor": {
+        "x": 256,
+        "y": 170,
+        "faceWidth": 250
+      },
+      "front": {
+        "sha256": "8bd70aed1331670a262f0410338cfc45c81a29bff02e64d0cf50cbea3ecf8e68",
+        "bytes": 107938,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/soft-part-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "65ebbab9180ae08ee400e31bf29242e27fdd483ff61485b7362c6252945ce488",
+        "bytes": 53750,
+        "mime": "image/webp",
+        "width": 303,
+        "height": 404,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/soft-part-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-blunt-bob",
+      "name": "齐线波波头",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult"
+      ],
+      "length": "short",
+      "curl": "straight",
+      "color": "#49332a",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "dd0199043d030a6ea2eb8e42bd4c18266016175bede06ead86d4573bac00bbb3",
+        "bytes": 82752,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-blunt-bob-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "1c8908557f676a14e73e781089f9bbb436374b6bd6b81d4ea598a63313559fee",
+        "bytes": 82976,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-blunt-bob-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mocha-layer",
+      "name": "摩卡长层次",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult"
+      ],
+      "length": "long",
+      "curl": "wavy",
+      "color": "#49332a",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "ad7f06daa7d4c65e0bd53c6907c67f6090bd997968f82eb44eafd11fa30a16fd",
+        "bytes": 178942,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mocha-layer-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "1246e03dedd93188e812af7810ed2bc91c54c79b859e738fc6816d2848e3601a",
+        "bytes": 99722,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mocha-layer-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mens-center",
+      "name": "轻盈中分",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult"
+      ],
+      "length": "short",
+      "curl": "wavy",
+      "color": "#252423",
+      "kind": "transparent",
+      "anchor": {
+        "x": 257.0753011703491,
+        "y": 177.8541374206543,
+        "faceWidth": 189.0210241443791
+      },
+      "front": {
+        "sha256": "60f53f23b7d3c59f2f3a7ace9ed5570237aef6e84ac4c106bbb8af53893e9832",
+        "bytes": 46444,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-center-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "c7d8f118aead8b996c6d5f8a0d417d7c9562abb955ee5ef87a672dd71db7dfbb",
+        "bytes": 76038,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-center-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mens-business",
+      "name": "成熟商务短发",
+      "gender": "male",
+      "ageGroups": [
+        "adult",
+        "mature",
+        "senior"
+      ],
+      "length": "short",
+      "curl": "straight",
+      "color": "#252423",
+      "kind": "transparent",
+      "anchor": {
+        "x": 257.0753011703491,
+        "y": 177.8541374206543,
+        "faceWidth": 189.0210241443791
+      },
+      "front": {
+        "sha256": "bfa0d62fcafe10f2fea8dbaa109eb4110f837a72334167dcf87b40042783a38d",
+        "bytes": 36160,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-business-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "ee3f65167f4e16b4d3b3867bd572ddc7abf9deee914a49028c97ff18096713e9",
+        "bytes": 74260,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-business-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mature-side",
+      "name": "侧分立体短发",
+      "gender": "female",
+      "ageGroups": [
+        "adult",
+        "mature",
+        "senior"
+      ],
+      "length": "short",
+      "curl": "straight",
+      "color": "#403129",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "bf4118d4d6f8d5f6da67be6c6752c9534453ccd45683d2643a7c5c59cf73c5dc",
+        "bytes": 55950,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mature-side-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "1d616fa928e66bddeddb86559f7583b99ccd61aede9f8d74772edf2032392c66",
+        "bytes": 75194,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mature-side-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mature-curl",
+      "name": "柔和短卷发",
+      "gender": "female",
+      "ageGroups": [
+        "mature",
+        "senior"
+      ],
+      "length": "short",
+      "curl": "curly",
+      "color": "#403129",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "4962dacb648f253bd10fb45d7eb777a2f31b2ba4cad3b0875b9702e237e261e7",
+        "bytes": 62550,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mature-curl-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "002f15d5b764fc7e5d667a305ea81d26525fa27e54e200384eb49ece2af53b02",
+        "bytes": 77580,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mature-curl-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-layered-waist",
+      "name": "收腰中长层次",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature"
+      ],
+      "length": "medium",
+      "curl": "wavy",
+      "color": "#49332a",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "ba4dc058f95cd0c937021f59530211981395f79500a7d9bb84e96186cf0766c8",
+        "bytes": 116504,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-layered-waist-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "76739734c393e2731e090f3a5842a1212b91407b05a4ec28b1c9e098b70b9941",
+        "bytes": 85110,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-layered-waist-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-layered-flip",
+      "name": "轻盈外翘波波",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature"
+      ],
+      "length": "medium",
+      "curl": "wavy",
+      "color": "#49332a",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "2f77d6db22b446fcdf7514ea69d1975263110360b3c26d8e9cf7df8bcd55bdf5",
+        "bytes": 91630,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-layered-flip-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "87943cfde998b32ab8adb98db8605b927d07cbe042e1a69b65821970890f927a",
+        "bytes": 86494,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-layered-flip-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mens-wave",
+      "name": "自然中分微卷",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult"
+      ],
+      "length": "short",
+      "curl": "wavy",
+      "color": "#292523",
+      "kind": "transparent",
+      "anchor": {
+        "x": 257.0753011703491,
+        "y": 177.8541374206543,
+        "faceWidth": 189.0210241443791
+      },
+      "front": {
+        "sha256": "26ff0e34efb6409316fe7f320bf76b746a70fe0799b455b1283cec3512eca9c6",
+        "bytes": 49400,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-wave-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "5e10c0c015261a24e3183d9b2a818ce782f30ff6da14e66038412967f43f8186",
+        "bytes": 76062,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-wave-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mens-swept",
+      "name": "后梳纹理短发",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature"
+      ],
+      "length": "short",
+      "curl": "wavy",
+      "color": "#292523",
+      "kind": "transparent",
+      "anchor": {
+        "x": 257.0753011703491,
+        "y": 177.8541374206543,
+        "faceWidth": 189.0210241443791
+      },
+      "front": {
+        "sha256": "3003b3b7d569948be9f0ea53a0a9bc9765f3adef95cb32cb8b491bc69483cc00",
+        "bytes": 43176,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-swept-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "3dc11bd657e8ea29400713ce0dca4f9e491ccbf34318de4a221ed53e19f1bcf8",
+        "bytes": 78788,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-swept-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-womens-fringe",
+      "name": "轻薄刘海直长发",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult"
+      ],
+      "length": "long",
+      "curl": "straight",
+      "color": "#312724",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "215c759d6deebd6c05e3a77d3e02671e4ce1ff511554eaf333f2acf96f056e7c",
+        "bytes": 127958,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-womens-fringe-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "1036ff4d7b84e6f28e0af20f075c1f76faf9e742281f48a66c9bb92a60162ee3",
+        "bytes": 77650,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-womens-fringe-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-womens-longcurl",
+      "name": "慵懒长卷发",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature"
+      ],
+      "length": "long",
+      "curl": "curly",
+      "color": "#624536",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "def18f99a868e245ec910883a886b3ae03d1793d53a77bc2b69540f35f2c0a78",
+        "bytes": 187136,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-womens-longcurl-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "2b28d396de2cd60a02cf30470e397679867df24ed095d25f4053aa55bced7af5",
+        "bytes": 109994,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-womens-longcurl-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mens-crop",
+      "name": "清爽碎盖短发",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature",
+        "senior"
+      ],
+      "length": "short",
+      "curl": "straight",
+      "color": "#292523",
+      "kind": "transparent",
+      "anchor": {
+        "x": 257.0753011703491,
+        "y": 177.8541374206543,
+        "faceWidth": 189.0210241443791
+      },
+      "front": {
+        "sha256": "a263681a669ab044c2eeffb181cb04314f5173795ffca0799dfa989ff3266b48",
+        "bytes": 37138,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-crop-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "ffe96f3e55b7d52862ca035b4f75f0444604717a891f7cb198b5daf2bb2a2128",
+        "bytes": 75890,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-crop-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mens-sidecurl",
+      "name": "侧分蓬松短卷",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature"
+      ],
+      "length": "short",
+      "curl": "curly",
+      "color": "#292523",
+      "kind": "transparent",
+      "anchor": {
+        "x": 257.0753011703491,
+        "y": 177.8541374206543,
+        "faceWidth": 189.0210241443791
+      },
+      "front": {
+        "sha256": "a3b273a9fe2a6cbf5ef37511995e8ad16a1322aadac19796b052d1399fd9d030",
+        "bytes": 42226,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-sidecurl-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "107e60b5a9697f2d07ab193490221e3fe95785357d4e0ba1082d66b5c942f201",
+        "bytes": 76696,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-sidecurl-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-womens-clavicle",
+      "name": "锁骨内扣中长发",
+      "gender": "female",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature"
+      ],
+      "length": "medium",
+      "curl": "straight",
+      "color": "#624536",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "2a73255d4025cab4f8993d2d73b97af7619cb141ba1e88493a9311b9b6f31d45",
+        "bytes": 94964,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-womens-clavicle-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "93cce7bab16ac38d2a8fff57242eb4e482d75eabe3ae4d9a383554c928026712",
+        "bytes": 83814,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-womens-clavicle-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-womens-pixie",
+      "name": "耳上精灵短发",
+      "gender": "female",
+      "ageGroups": [
+        "adult",
+        "mature",
+        "senior"
+      ],
+      "length": "short",
+      "curl": "straight",
+      "color": "#292523",
+      "kind": "transparent",
+      "anchor": {
+        "x": 258.40456104278564,
+        "y": 202.23655700683594,
+        "faceWidth": 177.13088084860274
+      },
+      "front": {
+        "sha256": "7dff148093328b7df81efe1cb57f8afb142890c950b4511419b8ff5369fa9ff1",
+        "bytes": 46882,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-womens-pixie-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "d65aba77799c28ba9b1fb4d4d333ac8ced824c0f85afd87362aaa897303eedc5",
+        "bytes": 72598,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-womens-pixie-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mens-midpart",
+      "name": "偏分中长发",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult"
+      ],
+      "length": "medium",
+      "curl": "wavy",
+      "color": "#292523",
+      "kind": "transparent",
+      "anchor": {
+        "x": 257.0753011703491,
+        "y": 177.8541374206543,
+        "faceWidth": 189.0210241443791
+      },
+      "front": {
+        "sha256": "543170069009f907f6e9a46344863a255df85b12953c56312d53942edaecd2a7",
+        "bytes": 64344,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-midpart-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "4e480283ada50b608d675caad1da4d06272c07b3f495939487b627f8d18911ab",
+        "bytes": 77274,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-midpart-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    },
+    {
+      "id": "own-mens-midcurl",
+      "name": "自然中长卷发",
+      "gender": "male",
+      "ageGroups": [
+        "young-adult",
+        "adult",
+        "mature"
+      ],
+      "length": "medium",
+      "curl": "curly",
+      "color": "#3d3029",
+      "kind": "transparent",
+      "anchor": {
+        "x": 257.0753011703491,
+        "y": 177.8541374206543,
+        "faceWidth": 189.0210241443791
+      },
+      "front": {
+        "sha256": "cbccb8e29ff7b45bf5c39cbffca608593ec764e32fcb0ec7cf49ad2e9e08f2ea",
+        "bytes": 84574,
+        "mime": "image/webp",
+        "width": 512,
+        "height": 640,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-midcurl-front.webp"
+      },
+      "thumbnail": {
+        "sha256": "0966f21f60e3ed7a879bce9e371d80877abbefa94ec2f2e48f548bc0f61f4782",
+        "bytes": 83312,
+        "mime": "image/webp",
+        "width": 384,
+        "height": 512,
+        "url": "https://raw.githubusercontent.com/daixingwei920/daiying-hair-library/8ac94a11a5ab615710d7aca24e00109af0140466/assets/own-mens-midcurl-thumbnail.webp"
+      },
+      "license": {
+        "id": "Daiying-Test-Assets-1.0",
+        "rights": "public-distribution-and-tryon",
+        "attribution": "Daiying / daixingwei920 · AI-generated test material · see LICENSE"
+      }
+    }
+  ]
+}
