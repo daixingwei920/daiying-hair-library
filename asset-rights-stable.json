@@ -1,0 +1,445 @@
+{
+  "licenseId": "Daiying-Stable-Tryon-1.0",
+  "publisher": "Daiying / daixingwei920",
+  "recordedOn": "2026-11-08",
+  "publisherGrant": "confirmed stable distribution and commercial try-on for these 24 styles and included fictional demonstration images",
+  "gitImageRevision": "8ac94a11a5ab615710d7aca24e00109af0140466",
+  "gitManifestSha256": "32c798a1ae3116ac14a55922503b6cabc2501a6b712ac8b1715f70ec8e3b928c",
+  "fictionalAdults": true,
+  "collectedNetworkPhotos": false,
+  "customerPhotos": false,
+  "files": [
+    {
+      "style": "airy-bob",
+      "kind": "front",
+      "bundledPath": "assets/hair/airy-bob-front.webp",
+      "bundledSha256": "84cd54f96cda960013a90fa5aa93f2966b60b0ca60288f2ab716447a6977f71e",
+      "gitPath": "assets/airy-bob-front.webp",
+      "gitSha256": "eee262c525fa1aeaaf012e796af4e0d034730250d49ed69111fbecc80f9b8924",
+      "sourceSha256": "631cf43dfe178bbf1c9f99c6fd07efc66363562b26e4aad569956530921c8189"
+    },
+    {
+      "style": "airy-bob",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/airy-bob-thumbnail.webp",
+      "bundledSha256": "4c4108acd72a959ea2347fc75a504cdcc92ebcdd70bc06a6ff15e2321c1be360",
+      "gitPath": "assets/airy-bob-thumbnail.webp",
+      "gitSha256": "4c4108acd72a959ea2347fc75a504cdcc92ebcdd70bc06a6ff15e2321c1be360",
+      "sourceSha256": "1dd70241d7b5b8566dc63fc0f360f66adbb09ab179e0e8e8a2a0beb5c8240c4d"
+    },
+    {
+      "style": "french-wave",
+      "kind": "front",
+      "bundledPath": "assets/hair/french-wave-front.webp",
+      "bundledSha256": "e8999c476ed936efc205ab1b569d79f1d11454decc48192a466c0c57368033b4",
+      "gitPath": "assets/french-wave-front.webp",
+      "gitSha256": "57953cf44fa5fe86c8febb06af3290f91382368f7c44f19f2315bf5eb8b69e0b",
+      "sourceSha256": "b2d8d1207ab15f931126c0f36a9da38fd3a4dc82574542ef465bf7a27492ec67"
+    },
+    {
+      "style": "french-wave",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/french-wave-thumbnail.webp",
+      "bundledSha256": "d472104a80e9b3eac6cd4afd913c4de0dd638c5a42f56b13c52ec99cb0bb8f5a",
+      "gitPath": "assets/french-wave-thumbnail.webp",
+      "gitSha256": "d472104a80e9b3eac6cd4afd913c4de0dd638c5a42f56b13c52ec99cb0bb8f5a",
+      "sourceSha256": "e6c7399265b4abb6aaa4f7d4c9a6b87860c4d6767c55bd9bd6a6f253c441a8e0"
+    },
+    {
+      "style": "long-layer",
+      "kind": "front",
+      "bundledPath": "assets/hair/long-layer-front.webp",
+      "bundledSha256": "bb3af8454a28fbfc5db8561d658f4ddb4526e163937cbdaf78652800dff52551",
+      "gitPath": "assets/long-layer-front.webp",
+      "gitSha256": "de3381fd61034d3d4d0f5c75a9994a3346d3c0e4789cda65368f94d303beb6d2",
+      "sourceSha256": "dbb3c122f18ce86f98b84952dd073612acaedb5e5755dad987957f27562a1c10"
+    },
+    {
+      "style": "long-layer",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/long-layer-thumbnail.webp",
+      "bundledSha256": "4a73134f05a2a73aab6ef75b2abc66581bcdb27fe13ec0e3ba6a7ef2ef0464c0",
+      "gitPath": "assets/long-layer-thumbnail.webp",
+      "gitSha256": "4a73134f05a2a73aab6ef75b2abc66581bcdb27fe13ec0e3ba6a7ef2ef0464c0",
+      "sourceSha256": "7b94a6dca8770cbcaaf016e2ba9d69ba27b02c28343f9877a4bb7f87df50732e"
+    },
+    {
+      "style": "cloud-curl",
+      "kind": "front",
+      "bundledPath": "assets/hair/cloud-curl-front.webp",
+      "bundledSha256": "779a36da9cfdb973dbeec6f8cb143094f146836e1ed6b508ac3aa3003081d8e3",
+      "gitPath": "assets/cloud-curl-front.webp",
+      "gitSha256": "06a79e210233ae0de1289b488f60342cb53c9bbcd259d81fbb2e1f9173c01255",
+      "sourceSha256": "eecf86ac35dd15f4b6f1df60208774f6c95c1e53e058d846c8f964f69f26a68a"
+    },
+    {
+      "style": "cloud-curl",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/cloud-curl-thumbnail.webp",
+      "bundledSha256": "7b046979623ab28350ae80c9bbcf7f5b4698cabdb8b662996bf1245f9d82549e",
+      "gitPath": "assets/cloud-curl-thumbnail.webp",
+      "gitSha256": "7b046979623ab28350ae80c9bbcf7f5b4698cabdb8b662996bf1245f9d82549e",
+      "sourceSha256": "8075e900b485536a6e20617cf03881622bf6c18a9f7fd4c63b9aa7ec065882f1"
+    },
+    {
+      "style": "textured-crop",
+      "kind": "front",
+      "bundledPath": "assets/hair/textured-crop-front.webp",
+      "bundledSha256": "68067dbbbae19cbfca61d02b0202ab4705b796ee0ae695917bd2f9dded191f92",
+      "gitPath": "assets/textured-crop-front.webp",
+      "gitSha256": "605e79af72e15dd9c2e55e24a5664394d41b2c8e1950fb77dad902cfe5f06829",
+      "sourceSha256": "cabfa5b7cc24c20c9fadfb343498f94b9d01f5ab5f29498ebee2e94c85144c7a"
+    },
+    {
+      "style": "textured-crop",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/textured-crop-thumbnail.webp",
+      "bundledSha256": "3d5600595065e2a5e969fc3006dd0c13105908f5a6851f1d731ab2c1b2cd2531",
+      "gitPath": "assets/textured-crop-thumbnail.webp",
+      "gitSha256": "3d5600595065e2a5e969fc3006dd0c13105908f5a6851f1d731ab2c1b2cd2531",
+      "sourceSha256": "242aad5ad251aff13851fc15fe717aa6ee17c953ebdce204a52f492a4b5a271f"
+    },
+    {
+      "style": "soft-part",
+      "kind": "front",
+      "bundledPath": "assets/hair/soft-part-front.webp",
+      "bundledSha256": "9b5bcc4e3619325c62aac8d789dedd644f0e31f86d08476393fd77c2d33e9636",
+      "gitPath": "assets/soft-part-front.webp",
+      "gitSha256": "8bd70aed1331670a262f0410338cfc45c81a29bff02e64d0cf50cbea3ecf8e68",
+      "sourceSha256": "09959c5e36bf90542d14e504e5040eed30473a36b577a2fa236583579e43f001"
+    },
+    {
+      "style": "soft-part",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/soft-part-thumbnail.webp",
+      "bundledSha256": "65ebbab9180ae08ee400e31bf29242e27fdd483ff61485b7362c6252945ce488",
+      "gitPath": "assets/soft-part-thumbnail.webp",
+      "gitSha256": "65ebbab9180ae08ee400e31bf29242e27fdd483ff61485b7362c6252945ce488",
+      "sourceSha256": "fb950f9fb87f33c834d16e0f19b09e549ce26cc88e2cb6977af5ce1407e0110c"
+    },
+    {
+      "style": "own-blunt-bob",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-blunt-bob-front.webp",
+      "bundledSha256": "dd0199043d030a6ea2eb8e42bd4c18266016175bede06ead86d4573bac00bbb3",
+      "gitPath": "assets/own-blunt-bob-front.webp",
+      "gitSha256": "dd0199043d030a6ea2eb8e42bd4c18266016175bede06ead86d4573bac00bbb3",
+      "sourceSha256": "ee9700cbd727463c184a84494cea80168b2f6f63c1ebba02b649d378d542f2f3"
+    },
+    {
+      "style": "own-blunt-bob",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-blunt-bob-thumbnail.webp",
+      "bundledSha256": "1c8908557f676a14e73e781089f9bbb436374b6bd6b81d4ea598a63313559fee",
+      "gitPath": "assets/own-blunt-bob-thumbnail.webp",
+      "gitSha256": "1c8908557f676a14e73e781089f9bbb436374b6bd6b81d4ea598a63313559fee",
+      "sourceSha256": "a53f8d1b389c5631d7af0a16ed75920c3cc31a989ba5931be4819f47d7e10dd1"
+    },
+    {
+      "style": "own-mocha-layer",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mocha-layer-front.webp",
+      "bundledSha256": "ad7f06daa7d4c65e0bd53c6907c67f6090bd997968f82eb44eafd11fa30a16fd",
+      "gitPath": "assets/own-mocha-layer-front.webp",
+      "gitSha256": "ad7f06daa7d4c65e0bd53c6907c67f6090bd997968f82eb44eafd11fa30a16fd",
+      "sourceSha256": "51c1ff9ca6cf888e66bea60f7a05951c53fb1093f4d8538be52166bc7b266844"
+    },
+    {
+      "style": "own-mocha-layer",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mocha-layer-thumbnail.webp",
+      "bundledSha256": "1246e03dedd93188e812af7810ed2bc91c54c79b859e738fc6816d2848e3601a",
+      "gitPath": "assets/own-mocha-layer-thumbnail.webp",
+      "gitSha256": "1246e03dedd93188e812af7810ed2bc91c54c79b859e738fc6816d2848e3601a",
+      "sourceSha256": "c2cd6c0ea3281612e74aa99c4ea1e92c75a185293508e7006f3824798262bf87"
+    },
+    {
+      "style": "own-mens-center",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mens-center-front.webp",
+      "bundledSha256": "60f53f23b7d3c59f2f3a7ace9ed5570237aef6e84ac4c106bbb8af53893e9832",
+      "gitPath": "assets/own-mens-center-front.webp",
+      "gitSha256": "60f53f23b7d3c59f2f3a7ace9ed5570237aef6e84ac4c106bbb8af53893e9832",
+      "sourceSha256": "99fe4369899ad63e92eb2af3d93951e63b004231b0c438ecbfb29f6ae1097d4b"
+    },
+    {
+      "style": "own-mens-center",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mens-center-thumbnail.webp",
+      "bundledSha256": "c7d8f118aead8b996c6d5f8a0d417d7c9562abb955ee5ef87a672dd71db7dfbb",
+      "gitPath": "assets/own-mens-center-thumbnail.webp",
+      "gitSha256": "c7d8f118aead8b996c6d5f8a0d417d7c9562abb955ee5ef87a672dd71db7dfbb",
+      "sourceSha256": "817b12b31ffd84c271fbc8779da8a5d7632519152dd63f46e3ab98285b16a112"
+    },
+    {
+      "style": "own-mens-business",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mens-business-front.webp",
+      "bundledSha256": "bfa0d62fcafe10f2fea8dbaa109eb4110f837a72334167dcf87b40042783a38d",
+      "gitPath": "assets/own-mens-business-front.webp",
+      "gitSha256": "bfa0d62fcafe10f2fea8dbaa109eb4110f837a72334167dcf87b40042783a38d",
+      "sourceSha256": "d8d93a676f087635d440eefa7821b3ea504a72bb084c8c940aa5709b47ec265a"
+    },
+    {
+      "style": "own-mens-business",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mens-business-thumbnail.webp",
+      "bundledSha256": "ee3f65167f4e16b4d3b3867bd572ddc7abf9deee914a49028c97ff18096713e9",
+      "gitPath": "assets/own-mens-business-thumbnail.webp",
+      "gitSha256": "ee3f65167f4e16b4d3b3867bd572ddc7abf9deee914a49028c97ff18096713e9",
+      "sourceSha256": "9f6e6718059579bbb9bbab2c201a17193656bba77c8fc5c612fc38f2d29209b3"
+    },
+    {
+      "style": "own-mature-side",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mature-side-front.webp",
+      "bundledSha256": "bf4118d4d6f8d5f6da67be6c6752c9534453ccd45683d2643a7c5c59cf73c5dc",
+      "gitPath": "assets/own-mature-side-front.webp",
+      "gitSha256": "bf4118d4d6f8d5f6da67be6c6752c9534453ccd45683d2643a7c5c59cf73c5dc",
+      "sourceSha256": "f4f7b756ba570cd23a8fcdd9490e22e9ab6b2301f2b3a2475c2eb786919e7231"
+    },
+    {
+      "style": "own-mature-side",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mature-side-thumbnail.webp",
+      "bundledSha256": "1d616fa928e66bddeddb86559f7583b99ccd61aede9f8d74772edf2032392c66",
+      "gitPath": "assets/own-mature-side-thumbnail.webp",
+      "gitSha256": "1d616fa928e66bddeddb86559f7583b99ccd61aede9f8d74772edf2032392c66",
+      "sourceSha256": "165cc36629bb32ce392c303e69d13d19dbc59ad48a2ea996fa68587d20edcdd2"
+    },
+    {
+      "style": "own-mature-curl",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mature-curl-front.webp",
+      "bundledSha256": "4962dacb648f253bd10fb45d7eb777a2f31b2ba4cad3b0875b9702e237e261e7",
+      "gitPath": "assets/own-mature-curl-front.webp",
+      "gitSha256": "4962dacb648f253bd10fb45d7eb777a2f31b2ba4cad3b0875b9702e237e261e7",
+      "sourceSha256": "4600beb228fe4a918c1496e51d9adddd8fe00fe728c1a454c56574d1b522f94f"
+    },
+    {
+      "style": "own-mature-curl",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mature-curl-thumbnail.webp",
+      "bundledSha256": "002f15d5b764fc7e5d667a305ea81d26525fa27e54e200384eb49ece2af53b02",
+      "gitPath": "assets/own-mature-curl-thumbnail.webp",
+      "gitSha256": "002f15d5b764fc7e5d667a305ea81d26525fa27e54e200384eb49ece2af53b02",
+      "sourceSha256": "571905e4dd24436a190c7db9d5a218aeeb8297f4c290fe597b89b20697a85dd3"
+    },
+    {
+      "style": "own-layered-waist",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-layered-waist-front.webp",
+      "bundledSha256": "ba4dc058f95cd0c937021f59530211981395f79500a7d9bb84e96186cf0766c8",
+      "gitPath": "assets/own-layered-waist-front.webp",
+      "gitSha256": "ba4dc058f95cd0c937021f59530211981395f79500a7d9bb84e96186cf0766c8",
+      "sourceSha256": "f218d3ac9da9ae32506762bc0b0a5c3aefdb0d7b5985b1ab6fa0a7c0b6838859"
+    },
+    {
+      "style": "own-layered-waist",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-layered-waist-thumbnail.webp",
+      "bundledSha256": "76739734c393e2731e090f3a5842a1212b91407b05a4ec28b1c9e098b70b9941",
+      "gitPath": "assets/own-layered-waist-thumbnail.webp",
+      "gitSha256": "76739734c393e2731e090f3a5842a1212b91407b05a4ec28b1c9e098b70b9941",
+      "sourceSha256": "35bf7f9badff775eea7bbc133726a29a76f723676ef66d0d85462bdf0fdff7a4"
+    },
+    {
+      "style": "own-layered-flip",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-layered-flip-front.webp",
+      "bundledSha256": "2f77d6db22b446fcdf7514ea69d1975263110360b3c26d8e9cf7df8bcd55bdf5",
+      "gitPath": "assets/own-layered-flip-front.webp",
+      "gitSha256": "2f77d6db22b446fcdf7514ea69d1975263110360b3c26d8e9cf7df8bcd55bdf5",
+      "sourceSha256": "da943c70e741a76b8796b6d9a018491582bd173f7638ea474b275fd52ec169e1"
+    },
+    {
+      "style": "own-layered-flip",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-layered-flip-thumbnail.webp",
+      "bundledSha256": "87943cfde998b32ab8adb98db8605b927d07cbe042e1a69b65821970890f927a",
+      "gitPath": "assets/own-layered-flip-thumbnail.webp",
+      "gitSha256": "87943cfde998b32ab8adb98db8605b927d07cbe042e1a69b65821970890f927a",
+      "sourceSha256": "b9ef61d942377eb3e6292862bdd6559ec2e2bdf7f3fbe7814ffe7131b1237bdc"
+    },
+    {
+      "style": "own-mens-wave",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mens-wave-front.webp",
+      "bundledSha256": "26ff0e34efb6409316fe7f320bf76b746a70fe0799b455b1283cec3512eca9c6",
+      "gitPath": "assets/own-mens-wave-front.webp",
+      "gitSha256": "26ff0e34efb6409316fe7f320bf76b746a70fe0799b455b1283cec3512eca9c6",
+      "sourceSha256": "f1156fd823d468a81e3c82284bd8badbed5503a5d247f639648c092c5fba2672"
+    },
+    {
+      "style": "own-mens-wave",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mens-wave-thumbnail.webp",
+      "bundledSha256": "5e10c0c015261a24e3183d9b2a818ce782f30ff6da14e66038412967f43f8186",
+      "gitPath": "assets/own-mens-wave-thumbnail.webp",
+      "gitSha256": "5e10c0c015261a24e3183d9b2a818ce782f30ff6da14e66038412967f43f8186",
+      "sourceSha256": "33faa10e6377edfd83dcbe3e286006b3b85c34066623592a02cf439101acdfdb"
+    },
+    {
+      "style": "own-mens-swept",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mens-swept-front.webp",
+      "bundledSha256": "3003b3b7d569948be9f0ea53a0a9bc9765f3adef95cb32cb8b491bc69483cc00",
+      "gitPath": "assets/own-mens-swept-front.webp",
+      "gitSha256": "3003b3b7d569948be9f0ea53a0a9bc9765f3adef95cb32cb8b491bc69483cc00",
+      "sourceSha256": "bbcb7d7d9c0f466c5282af49468bdfbae00f2911251cde79a2bdc1da6d099a02"
+    },
+    {
+      "style": "own-mens-swept",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mens-swept-thumbnail.webp",
+      "bundledSha256": "3dc11bd657e8ea29400713ce0dca4f9e491ccbf34318de4a221ed53e19f1bcf8",
+      "gitPath": "assets/own-mens-swept-thumbnail.webp",
+      "gitSha256": "3dc11bd657e8ea29400713ce0dca4f9e491ccbf34318de4a221ed53e19f1bcf8",
+      "sourceSha256": "bf739f92e68a982b65b693e4237b0cb2d67102ec93e420acb84c43eae845fbb6"
+    },
+    {
+      "style": "own-womens-fringe",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-womens-fringe-front.webp",
+      "bundledSha256": "215c759d6deebd6c05e3a77d3e02671e4ce1ff511554eaf333f2acf96f056e7c",
+      "gitPath": "assets/own-womens-fringe-front.webp",
+      "gitSha256": "215c759d6deebd6c05e3a77d3e02671e4ce1ff511554eaf333f2acf96f056e7c",
+      "sourceSha256": "57dc2d030abd4683f85eb74edaac5c1ad026d5ab3f9ba0e14f0be281d2825c82"
+    },
+    {
+      "style": "own-womens-fringe",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-womens-fringe-thumbnail.webp",
+      "bundledSha256": "1036ff4d7b84e6f28e0af20f075c1f76faf9e742281f48a66c9bb92a60162ee3",
+      "gitPath": "assets/own-womens-fringe-thumbnail.webp",
+      "gitSha256": "1036ff4d7b84e6f28e0af20f075c1f76faf9e742281f48a66c9bb92a60162ee3",
+      "sourceSha256": "f8a69eba4746b0b1cf9a45dc4ef7110a84634a58a9cf9b90e55eea6f1909b58a"
+    },
+    {
+      "style": "own-womens-longcurl",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-womens-longcurl-front.webp",
+      "bundledSha256": "def18f99a868e245ec910883a886b3ae03d1793d53a77bc2b69540f35f2c0a78",
+      "gitPath": "assets/own-womens-longcurl-front.webp",
+      "gitSha256": "def18f99a868e245ec910883a886b3ae03d1793d53a77bc2b69540f35f2c0a78",
+      "sourceSha256": "97fb075beb20b79fff94810fc18255723d2e6f7b78d17c3392d5556d55522fe1"
+    },
+    {
+      "style": "own-womens-longcurl",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-womens-longcurl-thumbnail.webp",
+      "bundledSha256": "2b28d396de2cd60a02cf30470e397679867df24ed095d25f4053aa55bced7af5",
+      "gitPath": "assets/own-womens-longcurl-thumbnail.webp",
+      "gitSha256": "2b28d396de2cd60a02cf30470e397679867df24ed095d25f4053aa55bced7af5",
+      "sourceSha256": "82166b66f2074b863eefc4e8369d5bce01deb24469764541a5198e8ff75ebb55"
+    },
+    {
+      "style": "own-mens-crop",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mens-crop-front.webp",
+      "bundledSha256": "a263681a669ab044c2eeffb181cb04314f5173795ffca0799dfa989ff3266b48",
+      "gitPath": "assets/own-mens-crop-front.webp",
+      "gitSha256": "a263681a669ab044c2eeffb181cb04314f5173795ffca0799dfa989ff3266b48",
+      "sourceSha256": "d3acb76a513e5a7bc046c765838a90e290a2e6cf3ce4046dac96c2b326859cca"
+    },
+    {
+      "style": "own-mens-crop",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mens-crop-thumbnail.webp",
+      "bundledSha256": "ffe96f3e55b7d52862ca035b4f75f0444604717a891f7cb198b5daf2bb2a2128",
+      "gitPath": "assets/own-mens-crop-thumbnail.webp",
+      "gitSha256": "ffe96f3e55b7d52862ca035b4f75f0444604717a891f7cb198b5daf2bb2a2128",
+      "sourceSha256": "02cb986bf657113bdc0738acfa277e5466276f61ec4a1419a5e27fff737bdefe"
+    },
+    {
+      "style": "own-mens-sidecurl",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mens-sidecurl-front.webp",
+      "bundledSha256": "a3b273a9fe2a6cbf5ef37511995e8ad16a1322aadac19796b052d1399fd9d030",
+      "gitPath": "assets/own-mens-sidecurl-front.webp",
+      "gitSha256": "a3b273a9fe2a6cbf5ef37511995e8ad16a1322aadac19796b052d1399fd9d030",
+      "sourceSha256": "fd81670fd95b318cae37cf0930de8942cd780cbd614faac9e1cc036e48edd4db"
+    },
+    {
+      "style": "own-mens-sidecurl",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mens-sidecurl-thumbnail.webp",
+      "bundledSha256": "107e60b5a9697f2d07ab193490221e3fe95785357d4e0ba1082d66b5c942f201",
+      "gitPath": "assets/own-mens-sidecurl-thumbnail.webp",
+      "gitSha256": "107e60b5a9697f2d07ab193490221e3fe95785357d4e0ba1082d66b5c942f201",
+      "sourceSha256": "5e4f220cdec73be32eaf0120bd1e1a317fa57f868d510b1d790ace469d08c2c2"
+    },
+    {
+      "style": "own-womens-clavicle",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-womens-clavicle-front.webp",
+      "bundledSha256": "2a73255d4025cab4f8993d2d73b97af7619cb141ba1e88493a9311b9b6f31d45",
+      "gitPath": "assets/own-womens-clavicle-front.webp",
+      "gitSha256": "2a73255d4025cab4f8993d2d73b97af7619cb141ba1e88493a9311b9b6f31d45",
+      "sourceSha256": "8c5ebc97b00a2be7490e28cd629c6cb3a7f3c3d6dc8c48ebc9accd502d3d2037"
+    },
+    {
+      "style": "own-womens-clavicle",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-womens-clavicle-thumbnail.webp",
+      "bundledSha256": "93cce7bab16ac38d2a8fff57242eb4e482d75eabe3ae4d9a383554c928026712",
+      "gitPath": "assets/own-womens-clavicle-thumbnail.webp",
+      "gitSha256": "93cce7bab16ac38d2a8fff57242eb4e482d75eabe3ae4d9a383554c928026712",
+      "sourceSha256": "9e680100c68d428f53fb4e885c3c5f2c480a15e5ff0c22b3e7fb1b90bedebfdb"
+    },
+    {
+      "style": "own-womens-pixie",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-womens-pixie-front.webp",
+      "bundledSha256": "7dff148093328b7df81efe1cb57f8afb142890c950b4511419b8ff5369fa9ff1",
+      "gitPath": "assets/own-womens-pixie-front.webp",
+      "gitSha256": "7dff148093328b7df81efe1cb57f8afb142890c950b4511419b8ff5369fa9ff1",
+      "sourceSha256": "06d6ac3fda77ad8c724700773b4af68124450e7e47d1b5a45df1139160c98491"
+    },
+    {
+      "style": "own-womens-pixie",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-womens-pixie-thumbnail.webp",
+      "bundledSha256": "d65aba77799c28ba9b1fb4d4d333ac8ced824c0f85afd87362aaa897303eedc5",
+      "gitPath": "assets/own-womens-pixie-thumbnail.webp",
+      "gitSha256": "d65aba77799c28ba9b1fb4d4d333ac8ced824c0f85afd87362aaa897303eedc5",
+      "sourceSha256": "858219645d9544c9e49f0ba1956cb2ea8d1c26dafc0b1f4cf926ead7d0bf3be8"
+    },
+    {
+      "style": "own-mens-midpart",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mens-midpart-front.webp",
+      "bundledSha256": "543170069009f907f6e9a46344863a255df85b12953c56312d53942edaecd2a7",
+      "gitPath": "assets/own-mens-midpart-front.webp",
+      "gitSha256": "543170069009f907f6e9a46344863a255df85b12953c56312d53942edaecd2a7",
+      "sourceSha256": "97b42ea88a31d38be31eba53d802a445f73807830d90e58ddfbbb4b515b8dc41"
+    },
+    {
+      "style": "own-mens-midpart",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mens-midpart-thumbnail.webp",
+      "bundledSha256": "4e480283ada50b608d675caad1da4d06272c07b3f495939487b627f8d18911ab",
+      "gitPath": "assets/own-mens-midpart-thumbnail.webp",
+      "gitSha256": "4e480283ada50b608d675caad1da4d06272c07b3f495939487b627f8d18911ab",
+      "sourceSha256": "3a3f33297e1fcc6a34386f607a4a9b55bb2bc1264ed85d12ecaa51eeb8032d23"
+    },
+    {
+      "style": "own-mens-midcurl",
+      "kind": "front",
+      "bundledPath": "assets/hair/own-mens-midcurl-front.webp",
+      "bundledSha256": "cbccb8e29ff7b45bf5c39cbffca608593ec764e32fcb0ec7cf49ad2e9e08f2ea",
+      "gitPath": "assets/own-mens-midcurl-front.webp",
+      "gitSha256": "cbccb8e29ff7b45bf5c39cbffca608593ec764e32fcb0ec7cf49ad2e9e08f2ea",
+      "sourceSha256": "750a4581c2afde82af84341d774e42a52fdfb1a4e1cc260481fb816ecd4fd743"
+    },
+    {
+      "style": "own-mens-midcurl",
+      "kind": "thumbnail",
+      "bundledPath": "assets/hair/own-mens-midcurl-thumbnail.webp",
+      "bundledSha256": "0966f21f60e3ed7a879bce9e371d80877abbefa94ec2f2e48f548bc0f61f4782",
+      "gitPath": "assets/own-mens-midcurl-thumbnail.webp",
+      "gitSha256": "0966f21f60e3ed7a879bce9e371d80877abbefa94ec2f2e48f548bc0f61f4782",
+      "sourceSha256": "d1b52c0795fedcacef6bca61047e1d99c175f7735464480e0229ed3ca6e49c12"
+    }
+  ]
+}

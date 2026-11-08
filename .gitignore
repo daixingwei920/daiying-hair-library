@@ -8,3 +8,7 @@
 !library.sha256
 !assets/
 !assets/*.webp
+!LICENSE-STABLE.txt
+!asset-rights-stable.json
+!library-stable.json
+!library-stable.sha256

@@ -1,0 +1,11 @@
+Daiying Stable Try-On Assets License 1.0
+发布者 / Publisher: Daiying / daixingwei920
+授权记录日期 / Grant recorded: 2026-11-08
+
+适用范围：仅限本许可随附 asset-rights-stable.json 以 SHA-256 列出的 24 款发型透明图和缩略图（包括其中的 AI 虚构成人演示图），以及同一清单所指的素材分类数据。
+
+在发布者有权许可的范围内，允许复制、随戴影发型设计 stable 插件和官方公共 Git 源公开分发，在自建站点或理发店等商业场景中为顾客试戴、调整、合成、展示，并向顾客交付试戴效果。素材为非独占许可。再分发这些原始素材及其派生素材包时，须保留本许可、来源和 AI 生成/派生说明。顾客个人试戴成品不要求附带本许可。
+
+本许可不涵盖独立售卖素材图库、商标、插件源码、第三方软件和模型、网络参考图、顾客照片、门店自有作品，或未列入清单的图片。素材系 AI 生成或派生的虚构成年人演示，并非实拍或真人身份验证。素材按现状提供，不保证独占性、适销性或第三方权利。原 0.5.0 beta 包及测试清单保持其原许可。
+
+This non-exclusive grant permits redistribution with Daiying Hair Studio stable and its official Git source, and use for local or commercial salon try-on, adjustment, display and delivery of customer try-on results. Retain this notice when redistributing the assets or derivative asset packs. The SHA-256 inventory defines the covered files. No standalone stock-library sale or rights to unrelated code, models, trademarks or customer photos are granted. These are AI-generated or derived fictional-adult assets, not real portraits. Provided as is.

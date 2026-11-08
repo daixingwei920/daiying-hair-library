@@ -23,3 +23,7 @@
 更新顺序：先提交素材/catalog/provenance 得到 commit A；再用 A 构建每个图片的 raw URL、生成 library.json 及 SHA-256，提交清单 B。不要让清单用自身 commit 作循环引用。保持许可和来源记录；素材不能带顾客原图、私库内容、密钥或生产配置。
 
 不包含侧背视图、模型文件、Core 源码、AI API 调用或自动发布工作流。
+
+## Stable 商业试戴授权
+
+`library-stable.json` 是 stable 专用固定清单，素材仍使用原固定字节；见 [Stable 许可](LICENSE-STABLE.txt)、[SHA-256 清单](asset-rights-stable.json) 和 [清单哈希](library-stable.sha256)。原测试库和 `library.json` 保持原许可。
